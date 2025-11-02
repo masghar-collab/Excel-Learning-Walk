@@ -1,0 +1,5 @@
+{
+  "name": "Learning Walk Assistant",
+  "description": "An efficient tool for educators to record observations, track teaching strategies, and manage feedback during learning walks. Save observations, send email feedback, and export data to CSV, all from a clean, mobile-friendly interface.",
+  "requestFramePermissions": []
+}
